@@ -1,0 +1,1 @@
+The ipynb file that got 0.97978 is my v5.2 predictive_model
